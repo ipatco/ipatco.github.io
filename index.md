@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to iPatco CMS
 
-You can use the [editor on GitHub](https://github.com/ipatco/ipatco.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is [Prashant Rijal](https://www.prashantrijal.com.np/) and I have started the project name 'Project2019' to make simple, free and easy to use CMS in PHP for both developers and the users. I changed the name from Project2019 to iPatco on March of 2019. After that I was being collecting necessary information, tools, and addons for the CMS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Visit [iPatco Official Website](https://ipatco.net/) to be a contributer for iPatco CMS. Currently iPatco CMS is on development and I am planning to release the alpha version of iPatco CMS within the mid of 2020. Lets see the initial planning and features of iPatco CMS.
 
 ### Markdown
 
