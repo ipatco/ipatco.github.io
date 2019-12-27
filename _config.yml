@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: iPatco CMS
 description: A small step to make web  better.
+show_downloads: true
